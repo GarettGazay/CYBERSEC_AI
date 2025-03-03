@@ -32,7 +32,9 @@ This portfolio reflects my journey from transportation-focused RL/DL to AI-power
 
 ## Contact
 
-Interested in discussing cybersecurity opportunities? Reach out via [garettgazay@gmail.com] or [www.linkedin.com/in/garett-gazay]—I’d love to connect!
+Interested in discussing cybersecurity opportunities? Reach out via garettgazay@gmail.com or www.linkedin.com/in/garett-gazay —I’d love to connect!
 
+## Other AI projects
+#### AI Scheduling / Dispatch for NEMT (Non-Emergency Medical Transportation): https://github.com/GarettGazay/AI-FOR-NEMT
 ---
 *Last Updated: March 2025*
